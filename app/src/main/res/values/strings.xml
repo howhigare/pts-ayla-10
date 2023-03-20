@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">ptselektronik</string>
+    <string-array name="electronic_name">
+        <item>air fryer</item>
+        <item>blender</item>
+        <item>dispenser</item>
+        <item>electric stove</item>
+        <item>mixer</item>
+        <item>pan</item>
+        <item>ricecooker</item>
+        <item>steamer</item>
+        <item>teapot</item>
+        <item>toaster</item>
+    </string-array>
+
+    <string-array name="electronic_harga">
+        <item>Rp5.000.000</item>
+        <item>Rp530.000</item>
+        <item>Rp3.500.000</item>
+        <item>Rp3.100.000</item>
+        <item>Rp620.000</item>
+        <item>Rp250.000</item>
+        <item>Rp235.000</item>
+        <item>Rp150.000</item>
+        <item>Rp339.900</item>
+        <item>Rp3.450.000</item>
+    </string-array>
+    <string-array name="electronic_description">
+        <item>Penggoreng kering atau penggoreng udara adalah
+            peralatan rumah tangga berupa oven konveksi yang dirancang
+            agar meniru goreng rendam tanpa membenamkan makanan dalam minyak</item>
+        <item>Blender merupakan salah satu peralatan elektronik dapur yang wajib
+            dimiliki di setiap rumah. Seperti namanya, blender merupakan alat untuk
+            menghaluskan atau melumatkan bahan makanan.</item>
+        <item>Dispenser air atau pendingin air adalah sebuah mesin yang mendinginkan dan
+            menyimpan air dengan ukuran kulkas. Alat tersebut umum diletakkan di dekat
+            kamar kecil karena akses yang lebih dekat dengan perpompaan</item>
+        <item>Panci Elektrik ialah alat masak yang dapat sebagai alternatif dari penggunaan
+            kompor ke listrik. Alat ini cocok untuk anak kos atau traveller yang tak memiliki dapur.
+            Bila Anda ingin membawa panci elektrik kemana-mana, belilah panci dengan ukuran kecil.</item>
+        <item>Mikser atau alat pengaduk adalah alat mekanis yang digunakan untuk mencampur bahan adonan yang
+            biasanya digunakan untuk pembuatan kue. Pencampuran ini dikenal dengan mix dalam bahasa Inggris,
+            sehingga alatnya dikenal dengan nama pencampur.</item>
+        <item>Frying pan berukuran besar dan berlapis keramik sangat cocok untuk memasak sehari-hari buat keluarga.
+            Sedangkan yang berukuran kecil dan berlapis teflon atau stainless steel lebih pas untuk memasak sewaktu-waktu
+            supaya kualitasnya tahan lama.</item>
+        <item>Penanak nasi adalah wadah atau alat dapur untuk memasak nasi. Beras juga bisa dimasak di dalam panci biasa yang
+            terbuat dari tanah atau logam yang digunakan untuk tujuan umum lainnya.</item>
+        <item>Kukus makanan atau steam cooker adalah alat dapur kecil yang digunakan untuk memasak atau menyiapkan berbagai makanan
+            dengan uap panas dengan cara menahan makanan dalam wadah tertutup untuk mengurangi keluarnya uap. Cara memasak ini disebut mengukus.</item>
+        <item>Poci atau teko adalah suatu wadah yang digunakan untuk menjerang daun teh atau campuran herbal dengan air yang hampir mendidih. Teh dapat ditempatkan
+            dalam kantung teh celup atau dibiarkan tersebar. Jika dibiarkan tersebar, diperlukan saringan teh untuk menangkap daun-daun teh di
+            dalam poci sewaktu akan menuang</item>
+        <item>Pemanggang roti adalah sebuah alat yang digunakan untuk membuat roti panggang.</item>
+    </string-array>
+
+    <integer-array name="electronics_poster">
+        <item>@drawable/airfryer</item>
+        <item>@drawable/blender</item>
+        <item>@drawable/dispenser</item>
+        <item>@drawable/electricstove</item>
+        <item>@drawable/mixer</item>
+        <item>@drawable/pan</item>
+        <item>@drawable/ricecooker</item>
+        <item>@drawable/steamer</item>
+        <item>@drawable/teapot</item>
+        <item>@drawable/toaster</item>
+    </integer-array>
+</resources>
